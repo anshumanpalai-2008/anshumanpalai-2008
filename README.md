@@ -1,132 +1,57 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:ff00ff,100:00f6ff&height=220&section=header&text=Hi%2C%20I'm%20Anshuman%20Palai&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Student%20%7C%20Builder%20%7C%20Leader&descAlignY=58&descSize=20" />
-
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F6FF&center=true&vCenter=true&width=800&lines=B.Tech+CSE+(AI%2FML)+%7C+Quad+AI+School+of+Technology;BS+in+Data+Science+and+AI+%7C+IIT+Madras;Building+things+with+code+and+AI;Former+Head+Boy+%26+Event+Organiser;Open+to+internships+and+collaborations" alt="Typing SVG" />
-</a>
+Anshuman Palai
+Student | Developer in Progress | AI Enthusiast
+<p>
+  <img src="https://www.gitskins.com/api/section/hero?username=anshumanpalai-2008&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F332567415%3Fu%3Dc9cdb84bfffc8f2698266e3f484db6bcb4f48088%26v%3D4" alt="Anshuman Palai GitHub profile hero" />
+</p>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=anshumanpalai-2008&color=ff00ff&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/anshumanpalai-2008?style=for-the-badge&color=00f6ff&labelColor=0f0c29&logo=github)
-![Stars](https://img.shields.io/github/stars/anshumanpalai-2008?style=for-the-badge&color=ff00ff&labelColor=0f0c29)
+<p>
+  <a href="https://github.com/anshumanpalai-2008">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/anshumanpalai">LinkedIn</a> ·
+  <a href="https://personal-portfolio-sage.vercel.app/">Portfolio</a>
+</p>
 
 </div>
 
----
+👋 About Me
+- 🎓 Pursuing the IIT Madras BS degree.
+- 💻 Exploring software development by learning, experimenting, and building projects.
+- 🤖 Interested in AI and currently working on JARVIS, a personal AI assistant project — in progress.
+- 🚀 My goal: keep learning, keep building, and turn ideas into working projects.
+🛠️ Skills & Technologies
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+</p>
 
-## ⚡ About Me
+📊 GitHub Snapshot
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=anshumanpalai-2008&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F332567415%3Fu%3Dc9cdb84bfffc8f2698266e3f484db6bcb4f48088%26v%3D4" alt="Anshuman Palai GitHub stats" />
+</p>
 
-```text
-> whoami
-  name        : Anshuman Palai
-  degree 1    : B.Tech CSE (AI/ML), Quad AI School of Technology, Bengaluru (Class of 2030)
-  degree 2    : BS in Data Science and AI, IIT Madras
-  focus       : AI, machine learning, data science, software development
-  leadership  : Head Boy of my school, organised Annual Day and ran competitions
-  speaking    : Passionate about clear communication and public speaking
-  looking for : Internships, hackathons, open source and collaborations
-```
+🚀 Projects
+- Personal Portfolio — My personal portfolio website. View live portfolio.
+- JARVIS — Personal AI Assistant — Currently in progress; I’m learning and building it step by step.
+- GitHub Profile README — This profile, continually evolving as I learn and build.
+🌐 Find Me Online
+<p align="center">
+  <a href="https://github.com/anshumanpalai-2008">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/anshumanpalai">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://personal-portfolio-sage.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-- 🎓 Pursuing two degrees side by side: **B.Tech CSE (AI/ML)** and **IIT Madras BS in Data Science and AI**
-- 🌱 Currently learning **Machine Learning, Data Science and Problem Solving**
-- 🤝 Applying to lead the **Coding Club** in the Quad AI Student Council 2026-27
-- 💬 Ask me about **AI/ML, data science, team leadership and public speaking**
-- 📫 Reach me at **anshumanpalai03@gmail.com**
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=anshumanpalai-2008&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F332567415%3Fu%3Dc9cdb84bfffc8f2698266e3f484db6bcb4f48088%26v%3D4" alt="Anshuman Palai social profile visual" />
+</p>
 
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Program | Institution | Year |
-|:--|:--|:--|
-| 🔹 **B.Tech in Computer Science and Engineering (AI/ML)** | Quad AI School of Technology, Bengaluru | 2026 to 2030 |
-| 🔹 **BS in Data Science and Applications / AI** | IIT Madras | Ongoing |
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,linux,pytorch,tensorflow&theme=dark" />
-
-</div>
-
-> Tip: edit the icon list to match the tools you actually use. Icon names are at https://skillicons.dev
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|:--|:--|:--|
-| 🔹 **[Project One](https://github.com/anshumanpalai-2008/REPO_ONE)** | One line on what it does and why it matters | `Python` `AI` |
-| 🔹 **[Project Two](https://github.com/anshumanpalai-2008/REPO_TWO)** | One line on what it does and why it matters | `Python` `ML` |
-| 🔹 **[Project Three](https://github.com/anshumanpalai-2008/REPO_THREE)** | One line on what it does and why it matters | `Python` `Data` |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=anshumanpalai-2008&show_icons=true&theme=synthwave&hide_border=true&bg_color=0f0c29&title_color=00f6ff&icon_color=ff00ff&text_color=ffffff" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanpalai-2008&layout=compact&theme=synthwave&hide_border=true&bg_color=0f0c29&title_color=00f6ff&text_color=ffffff" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=anshumanpalai-2008&theme=synthwave&hide_border=true&background=0f0c29&ring=ff00ff&fire=00f6ff&currStreakLabel=00f6ff" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anshumanpalai-2008&bg_color=0f0c29&color=00f6ff&line=ff00ff&point=ffffff&area=true&area_color=ff00ff&hide_border=true" />
-
----
-
-## 🏆 Achievements and Leadership
-
-- 🎖️ **Head Boy**, led the student body and represented the school
-- 🎭 **Organised the school Annual Day**, managing teams, schedules and performances
-- 🧠 **Ran inter-house competitions**, from planning to execution
-- 🎤 **Team speech on communication**, "From What? to WOW: The Science of Being Understood"
-- 🏅 [ADD: hackathons, certifications, awards]
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anshumanpalai-2008&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1" />
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/anshumanpalai"><img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00f6ff&color=0f0c29&labelColor=0f0c29" /></a>
-<a href="mailto:anshumanpalai03@gmail.com"><img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=ff00ff&color=0f0c29&labelColor=0f0c29" /></a>
-<a href="https://github.com/anshumanpalai-2008"><img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=00f6ff&color=0f0c29&labelColor=0f0c29" /></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=FF00FF&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!;Let's+build+something+great+together." />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f6ff,50:ff00ff,100:0f0c29&height=120&section=footer" />
+<p align="center"><i>Learning in public. Building one project at a time. ✨</i></p>
