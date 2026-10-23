@@ -19,7 +19,9 @@ Student | Developer in Progress | AI Enthusiast
 - 💻 Exploring software development by learning, experimenting, and building projects.
 - 🤖 Interested in AI and currently working on JARVIS, a personal AI assistant project — in progress.
 - 🚀 My goal: keep learning, keep building, and turn ideas into working projects.
+
 🛠️ Skills & Technologies
+
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
